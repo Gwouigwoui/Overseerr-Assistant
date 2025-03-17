@@ -13,6 +13,12 @@
       "128": "images/icon.png"
     }
   },
+  "browser_specific_settings": {
+  "gecko": {
+    "id": "overseerr-assistant@example.com",
+    "strict_min_version": "109.0"
+  }
+},
   "icons": {
     "16": "images/icon.png",
     "32": "images/icon.png",
